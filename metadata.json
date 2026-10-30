@@ -1,0 +1,6 @@
+{
+  "name": "Informatika Fun: Cyber Arena 3D",
+  "description": "Game edukasi 3D multiplayer interaktif untuk siswa SMP dengan tantangan kuis Informatika, sinkronisasi room real-time, kata penyemangat Makassar-Sinjai, dan podium juara 3D.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
